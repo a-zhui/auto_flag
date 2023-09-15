@@ -1,7 +1,9 @@
 # 人脸自动贴国旗
 > 使用opencv + dilb,通过dilb获取人脸关键点，然后简单的图像处理实现在右脸上贴国旗，刚好配合gradio写一个简单的demo
+> 
 > ![img.png](images/img.png) 
-> [gitee仓库地址](https://gitee.com/bocai123/auto_flag)
+> 
+> [博客地址](https://blog.csdn.net/weixin_43810267/article/details/132885775)
 
 
 ## 使用方式一：python虚拟环境
